@@ -16,6 +16,8 @@ namespace AppStudent.Model
         public string Prenom { get; set; }
         public string CIN { get; set; }
         public string CNE { get; set; }
+        public int Prop { get; set; }
+
         public DateTime DateDeNaissance { get; set; }
         #endregion
 
