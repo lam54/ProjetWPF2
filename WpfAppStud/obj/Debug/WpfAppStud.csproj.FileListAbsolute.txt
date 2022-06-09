@@ -1,0 +1,15 @@
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\bin\Debug\WpfAppStud.exe.config
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\bin\Debug\WpfAppStud.exe
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\bin\Debug\WpfAppStud.pdb
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.csproj.AssemblyReference.cache
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\Views\MainWindow.g.cs
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\App.g.cs
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud_MarkupCompile.cache
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud_MarkupCompile.lref
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\Views\MainWindow.baml
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.g.resources
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.Properties.Resources.resources
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.csproj.GenerateResource.cache
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.csproj.CoreCompileInputs.cache
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.exe
+C:\C#\WPF\ApplicationWPF\WpfAppStud\WpfAppStud\obj\Debug\WpfAppStud.pdb
